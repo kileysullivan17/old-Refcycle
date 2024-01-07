@@ -1,0 +1,24 @@
+body {
+    font-family: 'MuseoModerno', 'Outfit', 'Arial', san-serif;
+    font-size: 3.7rem;
+    background-color: #FFFFFF;
+    color: #000000;
+    margin: 0 2.7rem 0 0;
+    padding: 0;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  img {
+    margin: 8.57rem 0 -1.63rem;
+    width: 21.6rem;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
