@@ -1,6 +1,6 @@
 body {
     font-family: 'MuseoModerno', 'Outfit', 'Arial', san-serif;
-    font-size: 3.7rem;
+    font-size: 3.2rem;
     background-color: #FFFFFF;
     color: #000000;
     margin: 0 2.5rem 0 0;
@@ -12,8 +12,8 @@ ul {
 }
   
 img {
-    margin: 8.57rem 0 -1.63rem;
-    width: 21.6rem;
+    margin: 8.33rem 0 -1.92rem;
+    width: 18rem;
     padding: 0;
 }
   
@@ -21,4 +21,12 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000000;
 }
